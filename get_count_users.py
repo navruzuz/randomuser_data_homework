@@ -9,4 +9,8 @@ def get_count_users(data:dict) -> int:
     Returns:
         int: number of users
     """
+s = {"user1": "John", "user2": "Alice", "user3": "Bob"}
+x = len(s)
+print(x)
+
     
